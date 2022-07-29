@@ -2,6 +2,7 @@
 * {
     font-family: 'Edu VIC WA NT Beginner', cursive;
     font-family: 'Poppins', sans-serif;
+
 }
 
 .slider-img::before {
@@ -35,4 +36,8 @@
 #badge {
     width: 40px;
     height: 40px;
+}
+
+.title {
+    font-family: 'Mochiy Pop One', sans-serif;
 }
